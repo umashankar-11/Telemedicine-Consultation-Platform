@@ -1,4 +1,4 @@
-# Telemedicine Consultation System Using C
+# Telemedicine Consultation System Using C++
 
 ## Introduction
 
