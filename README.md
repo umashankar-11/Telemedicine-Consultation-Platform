@@ -26,6 +26,23 @@ This system is built using **C++ programming language**. The goal is to provide 
 - **Makefile**: (Optional) To compile the server and client.
 
 ## How to Run
+## Compilation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/umashankar-11/Telemedicine-Consultation-using-Cpp.git
+   cd Telemedicine-Consultation-using-Cpp
+   ```
+
+2. Compile the code using a C++ compiler (e.g., `g++`):
+   ```bash
+   g++ -o main.cpp
+   ```
+
+3. Run the executable:
+   ```bash
+   ./Telemedicine-Consultation-using-Cpp
+   ```
 
 ### Prerequisites
 - C compiler (GCC recommended)
